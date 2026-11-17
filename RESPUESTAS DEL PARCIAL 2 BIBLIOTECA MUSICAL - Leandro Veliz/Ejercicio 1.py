@@ -23,4 +23,4 @@ class Cancion:
 
 # Teoría:
 # Conviene guardarla como entero porque facilita hacer cálculos matemáticos (como sumar la duración de una playlist) y comparar u ordenar canciones directamente sin tener que separar ni convertir texto.
-# El formato "m:ss" solo sirve para mostrar el dato en pantalla y se calcula en el momento en que se necesita
+# El formato "m:ss" solo sirve para mostrar el dato en pantalla y se calcula en el momento en que se necesita.
